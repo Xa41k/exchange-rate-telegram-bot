@@ -6,7 +6,7 @@ namespace telegram_bot
 {
     class Program
     {
-        private static string token { get; set; } = "5007142868:AAGDiQf8HLI5oWQceI8wurqaus0V9Y0A3v0";
+        private static string token { get; set; } = "*****"; // You can get your token in BotFather in Telegram.
         private static TelegramBotClient client;
         public static string url = "https://minfin.com.ua/ua/currency/";
         public static void Main()
